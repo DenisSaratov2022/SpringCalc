@@ -5,7 +5,7 @@
 //@RestController
 //public class CalcController {
 
-//    @GetMapping("sum/{number1}/{number2}")
+// @GetMapping("sum/{number1}/{number2}")
 //    public String getSum(@PathVariable String number1, @PathVariable String number2) {
 //       try {
 //           int numb1 = Integer.parseInt(number1);
